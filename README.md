@@ -6,7 +6,7 @@ This is a test page for GitHub pages.
 |-----|-----|
 ||Value1|Value2|
 |Value3|Value4|
-# Heading 2
+## Heading 2
 |Column1|Column2|
 |-----|-----|
 |Value5|Value6|
